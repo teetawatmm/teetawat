@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/teetawat/static/css/main.c1ca492e.chunk.css",
-    "main.js": "/teetawat/static/js/main.cdc1b836.chunk.js",
-    "main.js.map": "/teetawat/static/js/main.cdc1b836.chunk.js.map",
+    "main.js": "/teetawat/static/js/main.000d9b49.chunk.js",
+    "main.js.map": "/teetawat/static/js/main.000d9b49.chunk.js.map",
     "runtime-main.js": "/teetawat/static/js/runtime-main.87d889c4.js",
     "runtime-main.js.map": "/teetawat/static/js/runtime-main.87d889c4.js.map",
     "static/js/2.ea2d591d.chunk.js": "/teetawat/static/js/2.ea2d591d.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.87d889c4.js",
     "static/js/2.ea2d591d.chunk.js",
     "static/css/main.c1ca492e.chunk.css",
-    "static/js/main.cdc1b836.chunk.js"
+    "static/js/main.000d9b49.chunk.js"
   ]
 }
